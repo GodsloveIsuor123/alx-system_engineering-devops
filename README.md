@@ -1,10 +1,4 @@
 
-In a nutshell…
-Auto QA review: 0.0/70 mandatory & 0.0/20 optional
-Altogether:  0.0%
-Mandatory: 0.0%
-Optional: 0.0%
-Calculation:  0.0% + (0.0% * 0.0%)  == 0.0%
 About Bash projects
 Unless stated, all your projects will be auto-corrected with Ubuntu 20.04 LTS.
 
